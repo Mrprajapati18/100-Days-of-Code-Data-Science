@@ -63,10 +63,19 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 ### 📘  Python Fundamentals
 | Section | Description |
 |---------|-------------|
-| **Basic_Python** | Fundamental syntax, control structures, functions, and Python essentials |
+| **Basic_Python** | Covers fundamental syntax, control structures, functions, and core Python concepts |
 | **OOPS** | Object-Oriented Programming principles with practical implementations |
 
 ###  Data Structures
 | Structure | Coverage |
 |-----------|----------|
-| **Array** | arrays with operations, List, String, Tuple, Set, Dictionary |
+| **Array** |Includes arrays, lists, strings, tuples, sets, and dictionaries with operations. |
+
+### Python Libraries for Data Science
+| Section | Coverage |
+|-----------|----------|
+| **NumPay** | Numerical computing and array operations |
+| **Pandas** | Data manipulation and analysis | 
+| **Matplotlib** | Data visualization and plotting |
+| **Seaborn** | Statistical data visualization | 
+| **Sk Learn**| Machine learning algorithms and models |
