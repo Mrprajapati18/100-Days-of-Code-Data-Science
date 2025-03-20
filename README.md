@@ -12,13 +12,13 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 ![Machine learing](https://github.com/user-attachments/assets/a1cdcb0a-59b8-4eb8-9010-82f8921183e7)
 
-
+--- 
 ## Calendar Progress
 
 ### FEB 2025
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
-| - | - | - | - | - | - | - |
+|------|------|------|------|--------|------|------|
 | - | - | - | - | - | - | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
@@ -29,7 +29,17 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 
 
-## Calendar Progress
-
 ### March 2025
+
+
+
+
+| Sun  | Mon  | Tues | Wed  | Thurs | Fri  | Sat  |
+|------|------|------|------|--------|------|------|
+|      |      |      |      |      |      | [1 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/07.%20Day%20-%20Matplotlib_Introduction) |
+| [2 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/08.%20Day%20-%20Matplotlib%20Labels%20and%20Title) | [3 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [4 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [5 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [6 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [7 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [8 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) |
+| [9 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/09.%20Day%20-%20Matplotlib%20Data%20Visualization) | [10 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/10.%20Day%20-%20Matplotlib%20Scatter%20And%20sub%20plot/Sub%20Plot%20Function.ipynb) | [11 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/10.%20Day%20-%20Matplotlib%20Scatter%20And%20sub%20plot/Sub%20Plot%20Function.ipynb) | [12 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/10.%20Day%20-%20Matplotlib%20Scatter%20And%20sub%20plot/Sub%20Plot%20Function.ipynb) | [13 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/11.%20Day%20-%20Seaborn%20Intro/Iris.csv) | [14 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/11.%20Day%20-%20Seaborn%20Intro/Iris.csv) | [15 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/11.%20Day%20-%20Seaborn%20Intro/Seaborn%20Intro.ipynb) |
+| [6 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/12.%20Day%20-%20Data%20Pre-Processing/Churn_Modelling.csv) | [17 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/12.%20Day%20-%20Data%20Pre-Processing/Churn_Modelling.csv) | [18 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/12.%20Day%20-%20Data%20Pre-Processing/Data%20Pre-Processing.ipynb) | [19 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/12.%20Day%20-%20Data%20Pre-Processing/Data%20Pre-Processing.ipynb) | [20 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/blob/main/12.%20Day%20-%20Data%20Pre-Processing/Data%20Pre-Processing.ipynb) | **21 ✅** | **22 ✅** |
+| **23 ✅** | **24 ✅** | **25 ✅** | **26 ✅** | **27 ✅** | **28 ✅** | **29 ✅** |
+| **30 ✅** | **31 ✅** |  |  |  |  |  |
 
