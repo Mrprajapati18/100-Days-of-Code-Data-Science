@@ -15,7 +15,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 ## Calendar Progress
 
-### FEB 2023
+### FEB 2025
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
@@ -24,3 +24,12 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | [23 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/01.%20Day%201%20-%20Pyhton%20Basics) | [24 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/02.%20Day%202%20-%20Functions%20and%20Modules) | [25 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/03.%20Day%203%20-%20Control%20Constructors) | [26 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/04.%20Day4%20-%20Data-Structure) | [27 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/05.%20Day5%20-%20NumPy) | [28 ✅](https://github.com/Mrprajapati18/100-Days-of-Code-Data-Science/tree/main/06.%20Day%20-%20Pandas) | - |
+
+
+
+
+
+## Calendar Progress
+
+### March 2025
+
