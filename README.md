@@ -13,9 +13,9 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 ![Machine learing](https://github.com/user-attachments/assets/a1cdcb0a-59b8-4eb8-9010-82f8921183e7)
 
 --- 
-## Calendar Progress
+## 📅 Calendar Progress
 
-### FEB 2025
+## 📅 FEB 2025
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 |------|------|------|------|--------|------|------|
@@ -29,7 +29,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 
 
-### March 2025
+## 📅 March 2025
 
 
 
@@ -43,3 +43,30 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | **23 ✅** | **24 ✅** | **25 ✅** | **26 ✅** | **27 ✅** | **28 ✅** | **29 ✅** |
 | **30 ✅** | **31 ✅** |  |  |  |  |  |
 
+
+
+
+## 📅 April 2025
+
+| Sun  | Mon  | Tues | Wed  | Thurs | Fri  | Sat  |
+|------|------|------|------|--------|------|------|
+|      |      |      |      |      |      | **1 ✅** |
+| **2 ✅** | **3 ✅** | **4 ✅** | **5 ✅** | **6 ✅** | **7 ✅** | **8 ✅** |
+| **9 ✅** | **10 ✅** | **11 ✅** | **12 ✅** | **13 ✅** | **14 ✅** | **15 ✅** |
+| **16 ✅** | **17 ✅** | **18 ✅** | **19 ✅** | **20 ✅** | **21 ✅** | **22 ✅** |
+| **23 ✅** | **24 ✅** | **25 ✅** | **26 ✅** | **27 ✅** | **28 ✅** | **29 ✅** |
+| **30 ✅** |  |  |  |  |  |  |
+
+
+## 🗂️ Repository Structure
+
+### 📘  Python Fundamentals
+| Section | Description |
+|---------|-------------|
+| **Basic_Python** | Fundamental syntax, control structures, functions, and Python essentials |
+| **OOPS** | Object-Oriented Programming principles with practical implementations |
+
+###  Data Structures
+| Structure | Coverage |
+|-----------|----------|
+| **Array** | arrays with operations, List, String, Tuple, Set, Dictionary |
