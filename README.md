@@ -79,3 +79,21 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | **Matplotlib** | Data visualization and plotting |
 | **Seaborn** | Statistical data visualization | 
 | **Sk Learn**| Machine learning algorithms and models |
+
+###  📖 Data Manipulation and Preprocessing
+| Section | Coverage |
+|-----------|----------|
+| **Data Manipulation** | feature scaling, encoding categorical data, data normalization preprocessing steps to improve data quality and model performance.| 
+
+
+
+## 🛠️ Machine Learning Basics
+| Topics | Use Case |
+|-----------|----------|
+| **Linear Algebra** | Vectors, Matrices|
+|  **Statistics & Probability** | Mean, Variance, Probability Distributions |
+| **Calculus**  | Derivatives, Gradients |
+| **Optimization Techniques** |Gradient Descent |
+
+
+
